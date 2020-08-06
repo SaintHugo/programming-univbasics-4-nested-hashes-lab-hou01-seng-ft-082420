@@ -16,7 +16,7 @@ def hopper
       }
     }
 
-puts programmer_hash[:grace_hopper]
+puts [:grace_hopper]
 
 end
 
