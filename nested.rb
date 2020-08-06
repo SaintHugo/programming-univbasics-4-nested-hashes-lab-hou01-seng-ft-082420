@@ -141,4 +141,7 @@ def adding_to_dennis
       }
     }
 
+programmer_hash[:alan_kay][:languages][2] = "Assembly"
+
+
 end
